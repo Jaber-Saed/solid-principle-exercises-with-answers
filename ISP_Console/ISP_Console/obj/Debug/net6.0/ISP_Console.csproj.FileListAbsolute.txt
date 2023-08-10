@@ -1,0 +1,15 @@
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\bin\Debug\net6.0\ISP_Console.exe
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\bin\Debug\net6.0\ISP_Console.deps.json
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\bin\Debug\net6.0\ISP_Console.runtimeconfig.json
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\bin\Debug\net6.0\ISP_Console.dll
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\bin\Debug\net6.0\ISP_Console.pdb
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.csproj.AssemblyReference.cache
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.AssemblyInfoInputs.cache
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.AssemblyInfo.cs
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.csproj.CoreCompileInputs.cache
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.dll
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\refint\ISP_Console.dll
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.pdb
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ISP_Console.genruntimeconfig.cache
+D:\WorkSpaceCode\Shahed\ISP_Console\ISP_Console\obj\Debug\net6.0\ref\ISP_Console.dll
